@@ -5,7 +5,8 @@
 
 // set global paths
 
-global datapath "C:\Users\kao1\OneDrive - University of Stirling\teaching\sssp005\LiveClasses\SecondLiveClass\simd_project\data"
-global figurespath "C:\Users\kao1\OneDrive - University of Stirling\teaching\sssp005\LiveClasses\SecondLiveClass\simd_project\figures"
-global outputspath "C:\Users\kao1\OneDrive - University of Stirling\teaching\sssp005\LiveClasses\SecondLiveClass\simd_project\outputs"
+global datapath "my-onedrive-path-here\teaching\sssp005\LiveClasses\SecondLiveClass\simd_project\data"
+global figurespath "my-onedrive-path-here\teaching\sssp005\LiveClasses\SecondLiveClass\simd_project\figures"
+global outputspath "my-onedrive-path-here\teaching\sssp005\LiveClasses\SecondLiveClass\simd_project\outputs"
+
 
