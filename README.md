@@ -1,8 +1,8 @@
-# Understanding deprivation in Scotland
+# Understanding deprivation in Scotland - Student: Kim Johnston updates
 
 ## Aims
-
-- Add aims
+  1.
+  2.
 
 ## Methods
 ### About the data
